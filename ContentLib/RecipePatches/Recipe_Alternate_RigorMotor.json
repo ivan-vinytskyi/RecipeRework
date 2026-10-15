@@ -1,0 +1,25 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_Motor_1.Recipe_Alternate_Motor_1_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Stator",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_CrystalOscillator",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 8
+        }
+    ],
+    "ManufacturingDuration": 60
+}

@@ -1,0 +1,7 @@
+//Game/FactoryGame/Schematics/Alternate/New_Update4/Schematic_Alternate_InstantScrap.Schematic_Alternate_InstantScrap_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Schematics": [
+    "Schematic_Alternate_Silica_Distilled_C"
+  ]
+}

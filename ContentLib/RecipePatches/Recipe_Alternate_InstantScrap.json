@@ -1,0 +1,33 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update4/Recipe_Alternate_InstantScrap.Recipe_Alternate_InstantScrap_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreBauxite",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_Coal",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_SulfuricAcid",
+            "Amount": 6000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 12000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminumScrap",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_DissolvedSilica",
+            "Amount": 12000
+        }
+    ],
+    "ManufacturingDuration": 12
+}

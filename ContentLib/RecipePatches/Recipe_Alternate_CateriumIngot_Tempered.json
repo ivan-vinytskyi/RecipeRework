@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update9_Ingots/Recipe_Alternate_CateriumIngot_Tempered.Recipe_Alternate_CateriumIngot_Tempered_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreGold",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 4
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_GoldIngot",
+            "Amount": 4
+        }
+    ],
+    "ManufacturingDuration": 8
+}

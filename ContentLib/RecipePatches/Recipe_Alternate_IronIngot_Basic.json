@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update9_Ingots/Recipe_Alternate_IronIngot_Basic.Recipe_Alternate_IronIngot_Basic_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreIron",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Stone",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronIngot",
+            "Amount": 6
+        }
+    ],
+    "ManufacturingDuration": 6
+}

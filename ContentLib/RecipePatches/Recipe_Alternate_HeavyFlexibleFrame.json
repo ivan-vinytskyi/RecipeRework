@@ -1,0 +1,29 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update3/Recipe_Alternate_HeavyFlexibleFrame.Recipe_Alternate_HeavyFlexibleFrame_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 60
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 16
+}

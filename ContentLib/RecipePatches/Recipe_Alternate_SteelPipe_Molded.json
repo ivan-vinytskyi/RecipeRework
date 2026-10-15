@@ -1,0 +1,20 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update9/Recipe_Alternate_SteelPipe_Molded.Recipe_Alternate_SteelPipe_Molded_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 5
+        }
+    ]
+}

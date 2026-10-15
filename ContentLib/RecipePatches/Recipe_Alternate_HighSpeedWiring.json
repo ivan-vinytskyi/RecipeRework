@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update3/Recipe_Alternate_HighSpeedWiring.Recipe_Alternate_HighSpeedWiring_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_Stator",
+            "Amount": 4
+        },
+        {
+            "Item": "Desc_HighSpeedConnector",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_3",
+            "Amount": 8
+        }
+    ],
+    "ManufacturingDuration": 60
+}

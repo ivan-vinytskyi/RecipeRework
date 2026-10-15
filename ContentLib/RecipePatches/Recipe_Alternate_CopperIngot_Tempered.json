@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update9_Ingots/Recipe_Alternate_CopperIngot_Tempered.Recipe_Alternate_CopperIngot_Tempered_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreCopper",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CopperIngot",
+            "Amount": 12
+        }
+    ],
+    "ManufacturingDuration": 12
+}

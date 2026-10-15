@@ -1,0 +1,20 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_EncasedIndustrialBeam.Recipe_Alternate_EncasedIndustrialBeam_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 6
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 1
+        }
+    ]
+}

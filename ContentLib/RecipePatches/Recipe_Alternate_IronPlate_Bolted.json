@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_ReinforcedIronPlate_1.Recipe_Alternate_ReinforcedIronPlate_1_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 52
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 12
+}

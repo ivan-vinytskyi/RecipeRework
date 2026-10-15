@@ -1,0 +1,29 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_ModularFrameHeavy.Recipe_Alternate_ModularFrameHeavy_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 8
+        },
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 36
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 24
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 64
+}

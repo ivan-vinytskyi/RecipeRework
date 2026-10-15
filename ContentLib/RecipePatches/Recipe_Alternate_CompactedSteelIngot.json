@@ -1,0 +1,21 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_IngotSteel_2.Recipe_Alternate_IngotSteel_2_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreIron",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_CompactedCoal",
+            "Amount": 3
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 12
+        }
+    ],
+    "ManufacturingDuration": 6
+}

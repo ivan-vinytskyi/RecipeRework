@@ -1,0 +1,10 @@
+//Game/FactoryGame/Recipes/AlternateRecipes/New_Update4/Recipe_Alternate_AlcladCasing.Recipe_Alternate_AlcladCasing_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Products": [
+        {
+            "Item": "Desc_AluminumCasing",
+            "Amount": 16
+        }
+    ]
+}
