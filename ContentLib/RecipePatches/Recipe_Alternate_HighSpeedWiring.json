@@ -17,5 +17,8 @@
             "Amount": 8
         }
     ],
-    "ManufacturingDuration": 60
+    "ManufacturingDuration": 60,
+    "ProducedIn":[
+        "Build_AssemblerMk1"
+    ]
 }

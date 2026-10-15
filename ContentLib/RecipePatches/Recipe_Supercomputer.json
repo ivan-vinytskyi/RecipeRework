@@ -1,0 +1,29 @@
+//Game/FactoryGame/Recipes/Manufacturer/Recipe_ComputerSuper.Recipe_ComputerSuper_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+        "Item": "Desc_Computer",
+        "Amount": 4
+    },
+    {
+        "Item": "Desc_CircuitBoardHighSpeed",
+        "Amount": 3
+    },
+    {
+        "Item": "Desc_HighSpeedConnector",
+        "Amount": 2
+    },
+    {
+        "Item": "Desc_Plastic",
+        "Amount": 24
+    }
+  ],
+  "Products": [
+    {
+        "Item": "Desc_ComputerSuper",
+        "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 24
+}
