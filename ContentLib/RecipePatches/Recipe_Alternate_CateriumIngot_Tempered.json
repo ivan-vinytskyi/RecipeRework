@@ -8,14 +8,14 @@
         },
         {
             "Item": "Desc_PetroleumCoke",
-            "Amount": 4
+            "Amount": 2
         }
     ],
     "Products": [
         {
             "Item": "Desc_GoldIngot",
-            "Amount": 4
+            "Amount": 3
         }
     ],
-    "ManufacturingDuration": 8
+    "ManufacturingDuration": 10
 }
